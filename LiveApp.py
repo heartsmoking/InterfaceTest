@@ -12,7 +12,8 @@ import random
 import time
 import re
 import logging
-import os,sys
+import os
+import sys
 try:
     import xlrd
 except:
